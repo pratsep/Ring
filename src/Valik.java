@@ -16,6 +16,7 @@ public class Valik extends Application{
         stack.getChildren().add(ring);
 
         primaryStage.show();
+        // Kristeri näide prooviks
 
     }
 }
