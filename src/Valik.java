@@ -12,10 +12,11 @@ public class Valik extends Application{
         Scene scene = new Scene(stack, 150, 150);
         primaryStage.setScene(scene);
 
-        Circle ring = new Circle(30);
+        Circle ring = new Circle(10);
         stack.getChildren().add(ring);
 
         primaryStage.show();
+        //Mis toims
         // Kristeri näide prooviks
 
     }
