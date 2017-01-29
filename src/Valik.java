@@ -18,6 +18,6 @@ public class Valik extends Application{
         primaryStage.show();
         //Mis toims
         // Kristeri näide prooviks
-
+//asdssasd
     }
 }
